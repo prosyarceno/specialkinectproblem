@@ -1,0 +1,3 @@
+# specialkinectproblem
+
+For my SP
